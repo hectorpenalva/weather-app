@@ -1,9 +1,12 @@
 import "./App.css";
+import Container from "./components/Container/Container";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">TEST</header>
+      <header className="App-header">
+        <Container />
+      </header>
     </div>
   );
 }
