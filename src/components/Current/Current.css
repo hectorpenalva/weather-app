@@ -1,0 +1,29 @@
+.Current {
+  color: #fff;
+}
+
+.Current .cityName {
+  font-size: 36px;
+}
+
+.Current .weather {
+}
+
+.Current .weather .condition {
+  font-size: 24px;
+  color: #fea;
+}
+
+.Current .weather {
+}
+
+.Current .weather .currentWeatherInfo {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 52px;
+}
+
+.Current .weather .currentWeatherInfo .otherInfo {
+  font-size: 16px;
+}

@@ -1,0 +1,17 @@
+.Form form input {
+  width: 40%;
+  height: 40px;
+  line-height: 28px;
+  padding: 0 1rem;
+  padding-left: 1.5rem;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  outline: none;
+  background-color: #f3f3f4;
+  color: #0d0c22;
+  transition: 0.3s ease;
+}
+
+.Form form input::placeholder {
+  color: #9e9ea7;
+}
